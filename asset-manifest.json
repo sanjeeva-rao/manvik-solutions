@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/manvik-solutions/static/css/main.2a50ba0b.css",
+    "main.js": "/manvik-solutions/static/js/main.a3b5360f.js",
+    "static/js/453.d520e83c.chunk.js": "/manvik-solutions/static/js/453.d520e83c.chunk.js",
+    "index.html": "/manvik-solutions/index.html",
+    "main.2a50ba0b.css.map": "/manvik-solutions/static/css/main.2a50ba0b.css.map",
+    "main.a3b5360f.js.map": "/manvik-solutions/static/js/main.a3b5360f.js.map",
+    "453.d520e83c.chunk.js.map": "/manvik-solutions/static/js/453.d520e83c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a50ba0b.css",
+    "static/js/main.a3b5360f.js"
+  ]
+}
